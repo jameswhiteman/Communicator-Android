@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Exchange screen -->
+	<string name="stringExchangeTitle">Exchange</string>
+
+	<!-- Global strings, used across many layouts -->
+    	<string name="stringGlobalTitle">Communicator</string>
+</resources>

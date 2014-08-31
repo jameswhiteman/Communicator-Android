@@ -1,0 +1,4 @@
+int drawable icon 0x7f020000
+int layout layout_exchange 0x7f030000
+int string stringExchangeTitle 0x7f040000
+int string stringGlobalTitle 0x7f040001
